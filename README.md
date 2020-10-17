@@ -23,3 +23,4 @@
 
 #### After adjusting the necessary hyperparameters run train_val_Indiana.py file to start training
 
+*** Visual model file is not necessary 
